@@ -29,8 +29,8 @@ You need to install the following software for the project to run properly:
 ### Running the tests
 Use ```TestRunner.bat```. It will give you the option to run the automated tests across multiple browsers and generate html test results after script execution.
 
-### Authors
+### Author
 Ciprian Constantin
 
-### Acknowledgments
+### Acknowledgment
 Wai Yip Tung - for HTMLTestRunner
