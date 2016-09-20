@@ -25,8 +25,9 @@ You need to install the following software for the project to run properly:
 2. Create the following folder structure inside ```C:\Python27\Scripts``` and place the CH & Edge WebDrivers
   * ```\selenium_webdrivers\chrome\chromedriver.exe```
   * ```\selenium_webdrivers\edge\MicrosoftWebDriver.exe```
-3. Create a new folder called ```Errors``` inside ```C:\Python27\Scripts``` to dump the screenshots taken when erros occur during execution
-4. Download and place ```HTMLTestRunner.py``` and ```mate1inc.py``` inside ```C:\Python27\Scripts```
+3. Include the ChromeDriver & MicrosoftWebDriver locations in your PATH environment variable
+4. Create a new folder called ```Errors``` inside ```C:\Python27\Scripts``` to dump the screenshots taken when erros occur during execution
+5. Download and place ```HTMLTestRunner.py``` and ```mate1inc.py``` inside ```C:\Python27\Scripts```
 
 ### Running the tests
 Run ```TestRunner.bat```.
